@@ -17,9 +17,9 @@ I'm an aspiring **Full-Stack Web Developer** passionate about building intuitive
 `React` • `Next.js` • `Tailwind CSS` • `Responsive/UX Design`
 
 **Back-End & Databases**
-`Node.js` • `Express` • `RESTful APIs` • `MongoDB
+`Node.js` • `Express` • `RESTful APIs` • `MongoDB`
 
-**Tools 
+**Tools**
 `Git/GitHub` • `VSCode` • `IntelliJ`
 
 ---
